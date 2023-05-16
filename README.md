@@ -14,6 +14,16 @@ Cybercon is Focused only for our Copart’s Work Environment.  Where it accepts 
 
 ## Slack Channel : https://cybercongroup.slack.com/archives/C04M4M8T44X 
 
+## Usage:
+
+```
+git clone https://github.com/Chirag-Copart/CyberCon.git
+cd CyberCon
+chmod +x install.sh
+./install.sh
+./CyberCon.sh -h 
+```
+
 ## Pros :
 1.	Easy to Use ✔️
 2.	Easy to Modify the Code  ✔️
