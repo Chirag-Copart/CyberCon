@@ -12,7 +12,7 @@ echo "
 
 help(){
   echo "
-Usage: ./EchoPwn.sh [options] -d domain.com
+Usage: ./CyberCon.sh [options] -d domain.com
 Options:
     -h            Display this help message.
     -d            Specify the domain to scan.
